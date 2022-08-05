@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684293461564",
+    "project_id": "shoot-boxes-91026904",
+    "storage_bucket": "shoot-boxes-91026904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684293461564:android:9d12fddf85abc0080f5539",
+        "android_client_info": {
+          "package_name": "com.JimmyKingStudio.ShootBoxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684293461564-jhq2ae2gfd21r7cc5vovhjbvjpb2b57t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebm_Kd5hdIZJy05ehEjBi-kCktsdjt0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684293461564-jhq2ae2gfd21r7cc5vovhjbvjpb2b57t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
